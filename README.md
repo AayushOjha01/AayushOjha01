@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Ojha</h1>
-<h3 align="center">A passionate Web developer and ML/AI enthusiast.</h3>
+<h3 align="center">👨‍💻 About Me
+I am currently studying Computer Engineering at IOE, Pulchwok 🎓. I'm passionate about backend development with good understanding of JavaScript and frontend technologies 💻.
+As an ML/AI enthusiast 🤖, I’m always eager to explore and learn new technologies in the ever-evolving tech landscape 🌐.</h3>
 
 - 📫 How to reach me **ojhayush2004@gmail.com**
 
